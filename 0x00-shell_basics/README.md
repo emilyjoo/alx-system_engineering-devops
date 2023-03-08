@@ -1,1 +1,1 @@
-long list directory
+current directory contents hidden files Use the long format 
