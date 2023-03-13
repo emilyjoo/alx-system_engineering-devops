@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Chicago" | tr -d 'cC'
+echo "Chicago" | cut -c 2-3-5
